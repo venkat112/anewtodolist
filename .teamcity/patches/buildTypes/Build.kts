@@ -13,7 +13,7 @@ changeBuildType(RelativeId("Build")) {
     features {
         add {
             approval {
-                approvalRules = "user:marco"
+                approvalRules = "user:john"
             }
         }
     }
